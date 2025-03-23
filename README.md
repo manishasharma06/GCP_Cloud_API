@@ -3,7 +3,7 @@
 What we want to build is
 ![diagram](diagram-simple.drawio.png?raw=true "Title")
 
-project api-gateway-359117 is the example project used in the tutorial, you should use your own project id.
+project api-gateway-359117 is the example for myself practice.
 
 # Cloud Function step by step
 
