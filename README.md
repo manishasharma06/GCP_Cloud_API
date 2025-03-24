@@ -1,5 +1,5 @@
 
-##  Project 2: Google Cloud API Gateway
+## Google Cloud API Gateway
 
 # Serverless Backend with GCP Cloud Functions & API Gateway
 
